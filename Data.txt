@@ -1,8 +1,0 @@
-For this project we need the following data:
-1. New York City data that contains Borough, Neighborhoods along with there latitudes and longitudes as in Module 3
-- Source: https://cocl.us/new_york_dataset
-- Description: This data set contains the required information. This data set is used to explore various neighborhoods of NYC. 
-
-2. Vietnamese restaurants in Manhattan neighborhood of NYC.
-- Data Source: Foursquare API
-- Description: By using this API we will get all the venues in Manhattan neighborhood
